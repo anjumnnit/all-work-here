@@ -1,2 +1,5 @@
 git add .   // add the commit
 git commit -a -m "message daaldo"
+then remote to enter the link 
+git push origin master
+
